@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Sistema.DAO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Sistema.Entindades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sistema.DAO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sistema.DAO.dll": {}
+        }
+      },
+      "Sistema.Entindades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Sistema.Entindades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sistema.Entindades.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Sistema.DAO/1.0.0": {
+      "type": "project",
+      "path": "../Sistema.DAO/Sistema.DAO.csproj",
+      "msbuildProject": "../Sistema.DAO/Sistema.DAO.csproj"
+    },
+    "Sistema.Entindades/1.0.0": {
+      "type": "project",
+      "path": "../Sistema.Entindades/Sistema.Entindades.csproj",
+      "msbuildProject": "../Sistema.Entindades/Sistema.Entindades.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Sistema.DAO >= 1.0.0",
+      "Sistema.Entindades >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\danilo.nsouza1\\.nuget\\packages\\": {},
@@ -15,9 +53,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Model\\Sistema.Model.vbproj",
+      "projectUniqueName": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Model\\Sistema.Model.csproj",
       "projectName": "Sistema.Model",
-      "projectPath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Model\\Sistema.Model.vbproj",
+      "projectPath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Model\\Sistema.Model.csproj",
       "packagesPath": "C:\\Users\\danilo.nsouza1\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Model\\obj\\",
       "projectStyle": "PackageReference",
@@ -41,7 +79,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.DAO\\Sistema.DAO.csproj": {
+              "projectPath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.DAO\\Sistema.DAO.csproj"
+            },
+            "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Entindades\\Sistema.Entindades.csproj": {
+              "projectPath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.Entindades\\Sistema.Entindades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

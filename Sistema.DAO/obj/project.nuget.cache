@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1Gg3OEiRzfvx+ELUsRVO6HUOwtm0SH8WbXlF1FuOpt0C2ulucIRd9ByWl21PWW9/1/38dFWq2OOHkASZjdyqQ==",
+  "dgSpecHash": "Rq3Lay5dmMmsFmDqTvlkJAQVCuPgNmfZV/uRkjYN3aLX264Uu40SkjLT+2VcjUHfe4boWPk0p3MHVUnL+FTbug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.DAO\\Sistema.DAO.vbproj",
+  "projectFilePath": "C:\\Users\\danilo.nsouza1\\source\\repos\\Sistema\\Sistema.DAO\\Sistema.DAO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

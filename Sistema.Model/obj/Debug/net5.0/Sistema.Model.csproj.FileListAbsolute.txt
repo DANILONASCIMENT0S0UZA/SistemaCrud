@@ -1,0 +1,17 @@
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Model.deps.json
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Model.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\ref\Sistema.Model.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Model.pdb
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.DAO.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Entindades.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.DAO.pdb
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Entindades.pdb
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.csproj.AssemblyReference.cache
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.AssemblyInfoInputs.cache
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.AssemblyInfo.cs
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.csproj.CoreCompileInputs.cache
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.csproj.CopyComplete
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\ref\Sistema.Model.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.pdb

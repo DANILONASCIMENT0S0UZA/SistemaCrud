@@ -1,0 +1,12 @@
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\bin\Debug\net5.0\Sistema.Entindades.deps.json
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\bin\Debug\net5.0\Sistema.Entindades.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\bin\Debug\net5.0\ref\Sistema.Entindades.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\bin\Debug\net5.0\Sistema.Entindades.pdb
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.csproj.AssemblyReference.cache
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.AssemblyInfoInputs.cache
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.AssemblyInfo.cs
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.csproj.CoreCompileInputs.cache
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\ref\Sistema.Entindades.dll
+C:\Users\danilo.nsouza1\source\repos\Sistema\Sistema.Entindades\obj\Debug\net5.0\Sistema.Entindades.pdb
